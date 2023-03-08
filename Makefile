@@ -1,8 +1,8 @@
 # memebox generating
 
-PAGELANG?=en
+PAGELANG?=zh
 
-TITLE?=MemeBox
+TITLE?=MemeBox-demo
 DESC?=Joy for Everyone
 FOOTER?=** Footer **
 
